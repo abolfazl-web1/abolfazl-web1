@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img width="3168" height="1000px" alt="github-clean" src="https://github.com/user-attachments/assets/03924cdc-2ec1-4931-a152-52405e142a53" />
+<img width="3872" height="1088" alt="g-clean" src="https://github.com/user-attachments/assets/45b1a215-cef7-4e12-a511-cd99a33c6d0b" />
+
 
 
 
